@@ -26,3 +26,34 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=bohdanai)
 
 </div>
+
+## 🎯 Mission
+> Transforming enterprises through secure AI solutions and advanced implementations
+
+## 🧬 Core Competencies
+- **🔮 Leadership:** Leading AI Integration and Security Framework implementations
+- **🧪 Growth:** Advancing in AI/ML Security and Enterprise Architecture
+- **🎪 Synergy:** Open to collaborate on AI Transformation and Enterprise Solutions
+- **🎨 Expertise:** Secure AI Design, Enterprise Integration, Scalable Solutions
+- **⚔️ Impact:** 5,000+ Successfully Executed Projects
+- **📨 Contact:** [help@bohdan.ai](mailto:help@bohdan.ai)
+
+## 🛠️ Tech Stack
+- ✦ VS Enterprise 2022+
+- ✦ GitHub Enterprise
+- ✦ Microsoft 365
+- ✦ Advanced LLM/NLP
+- ✦ US-grade security protocols
+- ✦ SOLID principles & best practices
+- ✦ Performance optimization
+- ✦ Enterprise frameworks (Python/JS)
+
+## 📚 Latest Publication
+> **AI Navigating—Fundamentals of Machine Learning**
+>
+> A comprehensive guide for understanding AI mechanics and implementation
+>
+> [View on Amazon](https://amazon.com/dp/B0D22DY2J8)
+
+## 🛡️ Security Framework
+```plaintext
