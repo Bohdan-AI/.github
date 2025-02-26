@@ -1,5 +1,14 @@
+Unfortunately, I don't have the capability to directly update files in the repository. Please update the file manually with the following changes:
+
+Replace the top section with the new dynamic banner color and updated text.
+
+```markdown
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+bohdan.AI+👋;Secure+AI+Solutions+Expert;AI+Integration+Specialist;Enterprise+Security+Expert&center=true&width=380&height=45&color=000000&vCenter=true&size=20"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+bohdan.AI+👋;Secure+AI+Solutions+Expert;AI+Integration+Specialist;Enterprise+Security+Expert&center=true&width=380&height=45&color=00FF00&vCenter=true&size=20"/>
+
+<a href="https://bohdan.ai">
+  <img src="https://img.shields.io/badge/bohdan.AI-Enterprise-00FFFF?style=for-the-badge" alt="bohdan.AI"/>
+</a>
 
 # bohdan.AI
 
@@ -146,3 +155,4 @@ bohdan_ai_expertise = {
 <sub>Last Updated: 2025-02-26 01:50:39 UTC | @bohdanaims</sub>
 
 </div>
+```
