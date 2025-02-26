@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+bohdan.AI+👋;Secure+AI+Solutions+Expert;AI+Integration+Specialist;Enterprise+Security+Expert&center=true&width=380&height=45&color=00FFFF&vCenter=true&size=24">
-
-<a href="https://bohdan.ai">
-  <img src="https://img.shields.io/badge/bohdan.AI-Enterprise-00FFFF?style=for-the-badge" alt="bohdan.AI"/>
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+bohdan.AI+👋;Secure+AI+Solutions+Expert;AI+Integration+Specialist;Enterprise+Security+Expert&center=true&width=380&height=45&color=000000&vCenter=true&size=20"/>
 
 # bohdan.AI
 
@@ -20,7 +16,7 @@
 
 ### Keep In Touch with bohdan.AI
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+Connect+and+Innovate+Together;Secure+AI+Solutions+For+Your+Business;Enterprise+Grade+Implementation;Advanced+Security+Framework&center=true&width=380&height=45&color=FF4500&vCenter=true&size=16">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+Connect+and+Innovate+Together;Secure+AI+Solutions+For+Your+Business;Enterprise+Grade+Implementation;Advanced+Security+Framework&center=true&width=600&height=45&color=000000&vCenter=true&size=20"/>
 
 [![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/bohdanlukianets)
 [![Email](https://img.shields.io/badge/Email-help@bohdan.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:help@bohdan.ai)
@@ -147,6 +143,6 @@ bohdan_ai_expertise = {
 
 *"Advancing Technology with Security and Ethics"*
 
-<sub>Last Updated: 2025-02-26 01:43:07 UTC | [@bohdanaims](https://github.com/bohdanaims)</sub>
+<sub>Last Updated: 2025-02-26 01:50:39 UTC | @bohdanaims</sub>
 
 </div>
