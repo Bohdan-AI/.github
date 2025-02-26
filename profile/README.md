@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+bohdan.AI+👋;Secure+AI+Solutions+Expert&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+bohdan.AI+👋;Secure+AI+Solutions+Expert;AI+Integration+Specialist;Enterprise+Security+Expert&center=true&width=380&height=45&color=00FFFF&vCenter=true&size=24">
 
   [![Visits](https://komarev.com/ghpvc/?username=bohdanaims&logo=GitHub&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/bohdanaims)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bohdanai/)
-  [![Website](https://img.shields.io/badge/Website-bohdan.ai-brightgreen)](https://bohdan.ai)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-12.9K_Followers-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdanai)
+  [![Website](https://img.shields.io/badge/Website-bohdan.ai-00FFFF?style=flat&logo=safari&logoColor=white)](https://bohdan.ai)
 </div>
 
 <div align="center">
-
 <a href="https://bohdan.ai">
   <img src="https://img.shields.io/badge/bohdan.AI-Enterprise-00FFFF?style=for-the-badge" alt="bohdan.AI"/>
 </a>
@@ -18,6 +17,18 @@
 
 ### Principal Technology Strategist — Advanced ML Research
 ### Microsoft AI Expertise © | Co-Founder
+
+---
+
+### Keep In Touch with bohdan.AI
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+Connect+and+Innovate+Together;Secure+AI+Solutions+For+Your+Business;Enterprise+Grade+Implementation;Advanced+Security+Framework&center=true&width=380&height=45&color=FF4500&vCenter=true&size=16">
+
+[![Book a Meeting](https://img.shields.io/badge/Book_a_Meeting-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/bohdanlukianets)
+[![Email](https://img.shields.io/badge/Email-help@bohdan.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:help@bohdan.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdanai)
+
+</div>
 
 [![Visits](https://komarev.com/ghpvc/?username=bohdanaims&label=Profile%20views&color=0e75b6&style=flat)](https://bohdan.ai)
 [![LinkedIn](https://img.shields.io/badge/12.9K_Followers-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdanai)
