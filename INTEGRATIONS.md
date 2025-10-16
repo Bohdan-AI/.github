@@ -51,7 +51,7 @@ This document lists and explains all integration points with external systems, A
 ![bohdan.AI](https://img.shields.io/badge/bohdan.AI-Enterprise-00FFFF?style=for-the-badge)
 ```
 
-**LinkedIn Follower Badge**:
+**LinkedIn Follower Badge** (Note: Follower count is hardcoded in badge and should be updated periodically):
 ```markdown
 ![LinkedIn](https://img.shields.io/badge/12.9K_Followers-0A66C2?style=flat&logo=linkedin&logoColor=white)
 ```
@@ -114,7 +114,7 @@ This document lists and explains all integration points with external systems, A
 **Configuration**: 
 - Username/handle: `bohdanai`
 - Profile action: Follow member
-- Metrics displayed: 12.9K Followers
+- Metrics displayed: 12.9K Followers (as of profile snapshot - update badge manually as needed)
 
 **Documentation**: [LinkedIn Profile URL Structure](https://www.linkedin.com/help/linkedin)
 
@@ -212,7 +212,7 @@ steps:
 ```
 
 **Key Settings**:
-- **Trigger Branch**: `main-1`
+- **Trigger Branch**: `main-1` (Note: This is the configured branch name; typical repositories use `main`)
 - **VM Image**: `ubuntu-latest`
 - **Pipeline Type**: YAML-based
 
